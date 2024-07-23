@@ -66,3 +66,7 @@ The script includes several print statements to help with debugging:
 - The next page URL for pagination.
 
 ## Example Output
+
+##Perspectives
+- **Fixing URL Issues:** The current script is facing issues with extracting URLs correctly. This will be addressed in the next update.
+- **Scheduled Execution:** A feature will be added to enable the script to run automatically every 5 days, ensuring the data is always up-to-date.
